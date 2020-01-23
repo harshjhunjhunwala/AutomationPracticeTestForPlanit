@@ -1,0 +1,7 @@
+com\automationpractice\pages\AuthenticationPage.class
+com\automationpractice\pages\RegistrationPage.class
+com\automationpractice\pages\HomePage.class
+com\automationpractice\base\BasePage.class
+com\automationpractice\pages\MyAccountPage.class
+com\automationpractice\pages\ContactUsPage.class
+com\automationpractice\pages\CartSummaryPage.class

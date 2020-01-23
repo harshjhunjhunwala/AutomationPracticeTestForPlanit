@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.automationpractice.testcases.HomePageTest" duration-ms="145415" started-at="2020-01-23T15:15:38Z" finished-at="2020-01-23T15:18:03Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="145415" started-at="2020-01-23T15:15:38Z" finished-at="2020-01-23T15:18:03Z">
+      <class name="com.automationpractice.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automationpractice.testcases.HomePageTest@6442b0a6]" name="setup" is-config="true" duration-ms="19540" started-at="2020-01-23T15:15:38Z" finished-at="2020-01-23T15:15:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="sendMessageToCustomerService()[pri:0, instance:com.automationpractice.testcases.HomePageTest@6442b0a6]" name="sendMessageToCustomerService" duration-ms="11630" started-at="2020-01-23T15:15:57Z" finished-at="2020-01-23T15:16:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendMessageToCustomerService -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.automationpractice.testcases.HomePageTest@6442b0a6]" name="quitBrowser" is-config="true" duration-ms="1204" started-at="2020-01-23T15:16:09Z" finished-at="2020-01-23T15:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automationpractice.testcases.HomePageTest@6442b0a6]" name="setup" is-config="true" duration-ms="18024" started-at="2020-01-23T15:16:10Z" finished-at="2020-01-23T15:16:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registerNewUserAndPerformValidations()[pri:1, instance:com.automationpractice.testcases.HomePageTest@6442b0a6]" name="registerNewUserAndPerformValidations" duration-ms="20891" started-at="2020-01-23T15:16:28Z" finished-at="2020-01-23T15:16:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerNewUserAndPerformValidations -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.automationpractice.testcases.HomePageTest@6442b0a6]" name="quitBrowser" is-config="true" duration-ms="1166" started-at="2020-01-23T15:16:49Z" finished-at="2020-01-23T15:16:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automationpractice.testcases.HomePageTest@6442b0a6]" name="setup" is-config="true" duration-ms="18597" started-at="2020-01-23T15:16:50Z" finished-at="2020-01-23T15:17:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginWithNewUser()[pri:2, instance:com.automationpractice.testcases.HomePageTest@6442b0a6]" name="loginWithNewUser" duration-ms="13790" started-at="2020-01-23T15:17:09Z" finished-at="2020-01-23T15:17:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithNewUser -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.automationpractice.testcases.HomePageTest@6442b0a6]" name="quitBrowser" is-config="true" duration-ms="1175" started-at="2020-01-23T15:17:23Z" finished-at="2020-01-23T15:17:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automationpractice.testcases.HomePageTest@6442b0a6]" name="setup" is-config="true" duration-ms="17454" started-at="2020-01-23T15:17:24Z" finished-at="2020-01-23T15:17:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addItemToCartAndValidateTheRightItem()[pri:3, instance:com.automationpractice.testcases.HomePageTest@6442b0a6]" name="addItemToCartAndValidateTheRightItem" duration-ms="20783" started-at="2020-01-23T15:17:41Z" finished-at="2020-01-23T15:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToCartAndValidateTheRightItem -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.automationpractice.testcases.HomePageTest@6442b0a6]" name="quitBrowser" is-config="true" duration-ms="1140" started-at="2020-01-23T15:18:02Z" finished-at="2020-01-23T15:18:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.automationpractice.testcases.HomePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.automationpractice.testcases.HomePageTest -->
+</testng-results>
