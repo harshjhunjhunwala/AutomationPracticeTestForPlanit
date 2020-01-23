@@ -1,6 +1,6 @@
 ### Steps to clone and run the test.
-- git clone https://github.com/harshjhunjhunwala/AutomationPracticeTest.git
-- Navigate to config.properties file located at https://github.com/harshjhunjhunwala/AutomationPracticeTest/tree/master/DaviesGroupTest/src/main/java/com/automationpractice/config
+- git clone https://github.com/harshjhunjhunwala/AutomationPracticeTestForPlanit.git
+- Navigate to config.properties file located at https://github.com/harshjhunjhunwala/AutomationPracticeTestForPlanit/tree/master/PlanitTest/src/main/java/com/automationpractice/config
   Update the username and password of your choice ( Since test@test.com is already used )
 - cd PlanitTest
 - mvn clean test
@@ -87,8 +87,8 @@ Tests run: 4, Failures: 0, Errors: 0, Skipped: 0
 
 
 ### Snapshot and video uploaded of automation results
-- In the name of Snapshot of all test scenarios https://github.com/harshjhunjhunwala/AutomationPracticeTest/tree/master/Automation%20Results
-- Video captured - https://github.com/harshjhunjhunwala/AutomationPracticeTest/tree/master/Automation%20Results
+- In the name of Snapshot of all test scenarios https://github.com/harshjhunjhunwala/AutomationPracticeTestForPlanit/tree/master/Automation%20Results
+- Video captured (Video of automation scenarios.MOV) - https://github.com/harshjhunjhunwala/AutomationPracticeTestForPlanit/tree/master/Automation%20Results
 
 
 ### More things which can be achieved...
